@@ -1,6 +1,6 @@
 # 🌸 My Python Journey
 
-Hi, I am **Ritu** and this is my daily Python growth diary.
+Hi, I am **Ritusmita Dutta** and this is my daily Python growth diary.
 
 I am building consistency first, then skill, then projects.
 
